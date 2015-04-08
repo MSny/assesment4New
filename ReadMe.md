@@ -11,3 +11,4 @@ Wants to be able to input a search term and see matching gifs.
 	2. Input search term in Form, use search term for API request.
 	3. Render new page with n number of results populated 
 	4. Include link to return to main page. 
+Button does not work, after entering search term must press enter and then navigate to /search/results
